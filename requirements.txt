@@ -1,0 +1,13 @@
+streamlit
+crewai
+langchain
+langchain-community
+faiss-cpu
+openai
+together
+python-dotenv
+onnxruntime==1.16.0
+requests
+
+
+#venv\Scripts\activate
