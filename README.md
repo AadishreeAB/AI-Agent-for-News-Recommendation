@@ -43,7 +43,7 @@ To run this project, create a `.env` file in the root directory with the followi
 ```env
 NEWS_API_KEY=your_newsapi_key
 TOGETHER_AI_API_KEY=your_togetherai_key
-OPENAI_API_KEY=your_openai_key
+OPENAI_API_KEY=your_openai_key```
 
 These are automatically loaded via dotenv.
 
