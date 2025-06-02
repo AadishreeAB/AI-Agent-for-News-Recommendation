@@ -55,7 +55,7 @@ These are automatically loaded via dotenv.
 -Upgrade to multi-agent setup for richer capabilities
 -Test different embedding models and news sources
 
-👩‍🏫 Academic Note
+#  Academic Note
 This project was developed as part of an academic case study to explore AI agents and real-world applications of autonomous systems in personalised content delivery.
 
 
